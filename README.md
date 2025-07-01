@@ -1,4 +1,23 @@
-<h1 align="center">Hi there, I'm Oktavian Yudi Hartono👋</h1>
+
+<!--
+**Vian061/Vian061** — Welcome to the dev side 😎
+
+This is a ✨ special ✨ repository because its `README.md` appears right on my GitHub profile.
+
+A few things you *won’t* see in the GitHub stats:
+
+- 💼 I work on serious private codebases — client/internal stuff, NDA and all that.
+- 👨‍💻 Full-stack developer using Flutter (📱), C# (⚙️), and Angular (🌐).
+- 🧠 Always learning, always building, sometimes breaking things for the sake of learning.
+- 🧪 I prototype with AI tools a lot — speed is king.
+- 🧩 Exploring game dev, not a gamedev yet — but it's on the horizon.
+- 💬 Here for clean code, cool tech, and meaningful builds.
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/Vian-Ydh)
+
+This profile is evolving — kind of like my commit history. Stick around 😉
+-->
+
+<h1 align="center">Hi there, I'm Oktavian Yudi Hartono 👋</h1>
 <p align="center">
   A passionate Full-Stack Developer who loves turning ideas into functional products.
 </p>
@@ -7,10 +26,10 @@
 
 ### 🧠 About Me
 
-- 💻 Full-stack developer with a focus on building scalable and maintainable systems
-- 🛠️ Skilled in Flutter (📱), C# (⚙️), and Angular (🌐)
-- ⚡ I use AI-assisted tools to prototype and ship faster
-- 🌱 Always learning and exploring new technologies
+- 💻 Full-stack developer with a focus on building scalable and maintainable systems  
+- 🛠️ Skilled in Flutter (📱), C# (⚙️), and Angular (🌐)  
+- ⚡ I use AI-assisted tools to prototype and ship faster  
+- 🌱 Always learning and exploring new technologies  
 
 ---
 
@@ -34,20 +53,5 @@
 
 ### 📫 Let’s Connect!
 
-- LinkedIn: [linkedin.com/in/Vian-Ydh](https://linkedin.com/in/yourusername)
+- LinkedIn: [linkedin.com/in/Vian-Ydh](https://www.linkedin.com/in/Vian-Ydh)
 - Portfolio: _Coming Soon_
-
-<!--
-**Vian061/Vian061** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
